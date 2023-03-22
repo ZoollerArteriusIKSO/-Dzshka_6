@@ -1,0 +1,25 @@
+body{
+    height: 100%;
+    width:100%;
+    padding: 0;
+    margin: 0;
+}
+.content {
+    width: 500px;
+    margin: auto;
+}
+
+#arrowT {
+    top: 10px;
+    left: 10px;
+    color: red;
+    position: fixed;
+    cursor: pointer;
+}
+#arrowD {
+    bottom: 10px;
+    left: 10px;
+    color: red;
+    position: fixed;
+    cursor: pointer;
+}
